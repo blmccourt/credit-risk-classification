@@ -77,7 +77,7 @@ The model performs exceptionally well overall, especially in predicting healthy 
 
 - Jupyter notebook with python code.
 
-2. **[Images](https://github.com/blmccourt/credit-risk-classification/tree/main/Credit_Risk/Images)**
+2. **[Images](https://github.com/blmccourt/credit-risk-classification/tree/main/Images)**
 
 - Folder with images used in notebook.
 
